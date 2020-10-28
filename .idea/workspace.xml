@@ -3,12 +3,29 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6964b73e-fbf4-472c-a10e-6990132fb05f" name="Default Changelist" comment="HTML and CSS files are created and populated with basic format and style.">
-      <change afterPath="$PROJECT_DIR$/calculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/calculator.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +38,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -86,6 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602383068563</updated>
       <workItem from="1602383073237" duration="17133000" />
+      <workItem from="1603885580859" duration="4022000" />
     </task>
     <task id="LOCAL-00001" summary="HTML and CSS files are created and populated with basic format and style.">
       <created>1602399914254</created>
@@ -100,6 +118,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="HTML and CSS files are created and populated with basic format and style." />
@@ -109,21 +138,24 @@
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="264" y="68" width="824" height="691" key="#CLI_Interpreters" timestamp="1602402018587">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="264" y="41" width="824" height="691" key="#CLI_Interpreters" timestamp="1603886845513">
+      <screen x="0" y="0" width="1366" height="736" />
     </state>
+    <state x="264" y="41" key="#CLI_Interpreters/0.0.1366.736@0.0.1366.736" timestamp="1603886845513" />
     <state x="264" y="68" width="824" height="691" key="#CLI_Interpreters/0.27.1366.741@0.27.1366.741" timestamp="1602402018587" />
     <state x="746" y="217" width="546" height="367" key="#Notifications" timestamp="1602399527783">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="746" y="217" width="546" height="367" key="#Notifications/0.27.1366.741@0.27.1366.741" timestamp="1602399527783" />
-    <state x="647" y="27" width="654" height="741" key="#PHP" timestamp="1602402032754">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="597" y="0" width="769" height="736" key="#PHP" timestamp="1603886848607">
+      <screen x="0" y="0" width="1366" height="736" />
     </state>
+    <state x="597" y="0" width="769" height="736" key="#PHP/0.0.1366.736@0.0.1366.736" timestamp="1603886848607" />
     <state x="647" y="27" width="654" height="741" key="#PHP/0.27.1366.741@0.27.1366.741" timestamp="1602402032754" />
-    <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602383439180">
-      <screen x="0" y="27" width="1366" height="741" />
+    <state x="141" y="28" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603890331329">
+      <screen x="0" y="0" width="1366" height="736" />
     </state>
+    <state x="141" y="28" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.736@0.0.1366.736" timestamp="1603890331329" />
     <state x="141" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1602383439180" />
     <state x="511" y="27" width="845" height="741" key="CommitChangelistDialog2" timestamp="1602407167712">
       <screen x="0" y="27" width="1366" height="741" />
