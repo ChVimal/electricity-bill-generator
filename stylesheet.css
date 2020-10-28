@@ -1,10 +1,9 @@
 .center {
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
 }
 
 .text {
-    color: palegreen;
+    color: orange;
     text-align: center;
 }
 
@@ -26,7 +25,7 @@ input {
 
 body {
     border: 1px solid palegreen;
-    background-image: url('4K-Light-Bulb-Photo-Download2.png');
+    background-image: url('SYMBOLS-OF-POWER.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
