@@ -16,9 +16,7 @@
         $bill = new Bill($units);
         echo $bill->generate_bill(); ?></label><br><br>
 
-    <label>Summary of your bill: <?php require_once 'calculator.php';
-        $units = $_POST["units"];
-        $bill = new Bill($units);
+    <label>Summary of your bill: <?php
         echo $bill->generate_summary(); ?></label>
 </form>
 </body>
